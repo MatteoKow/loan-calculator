@@ -1,0 +1,14 @@
+
+node_modules/
+server/node_modules/
+
+*.log
+
+build/
+dist/
+
+
+*.js.map
+
+.DS_Store
+Thumbs.db
